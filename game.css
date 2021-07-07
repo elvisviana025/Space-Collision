@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #161516;
+}
+
+p {
+    text-align: center;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 10px;
+    line-height: 25px;
+}
+
+h1 {
+    color: yellow;
+    text-align: center;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    margin-top: 15px;
+}
+
+.flexbox {
+    display: flex;
+    justify-content: center;
+}
+
+.caixaCentral {
+    width: 1000px;
+    padding: 20px 60px;
+    margin: 30px auto;
+    border: 1px solid white;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px 5px gray;
+    background-color: #f7c5b1;
+    color: black;
+}
+
+#telaJogo {
+    border: 5px groove #fff;
+    border-radius: 50px;
+    background: linear-gradient(to left, purple, #000,#333, purple);
+    background-image: url(./img/space.png);
+
+}
