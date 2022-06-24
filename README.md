@@ -14,9 +14,10 @@ O jogo foi inspirado na série "Star Trek" e a nave pilotada é inspirada na nav
 
 ## 🎨 Design
 ### Paleta de cores:
-* ![#ffff00](https://via.placeholder.com/15/ffff00/000000?text=+) `#ffff00` amarelo
-* ![#f7c5b1](https://via.placeholder.com/15/f7c5b1/000000?text=+) `#f7c5b1` bege
-* ![#161516](https://via.placeholder.com/15/161516/000000?text=+) `#161516` preto
+
+- ![#ffff00](https://via.placeholder.com/15/ffff00/ffff00.png) `#ffff00` amarelo
+- ![#f7c5b1](https://via.placeholder.com/15/f7c5b1/f7c5b1.png) `#f7c5b1` bege
+- ![#161516](https://via.placeholder.com/15/161516/161516.png) `#161516` preto
 
 
 ### Fonte:
